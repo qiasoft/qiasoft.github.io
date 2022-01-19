@@ -3,4 +3,4 @@
 
 ## Documentation
 
-* [Qia Software Documents](https://qiasoft-documents.johannhuang.com/)
+* [Qia Software Docs](https://qiasoft-docs.johannhuang.com/)
