@@ -1,6 +1,4 @@
 # Qia Software
 
-
-## Documentation
-
-* [Qia Software Docs](https://qiasoft-docs.johannhuang.com/)
+* [Qia Software](https://www.qiasoft.de/)
+* [Qia Software Docs](https://docs.qiasoft.de/)
